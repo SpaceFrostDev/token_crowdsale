@@ -12,7 +12,9 @@ The `CrowdsaleDeployer` contract is nearly identical to OpenZepplin's `MintedCro
 
 ### User Reproduction of Contract
 To reproduce my contract and verify the utility of my code, please navigate to  
-```python https://remix.ethereum.org/```
+```python
+https://remix.ethereum.org/
+```
 
 ### Evaluation Evidence
-
+See video titled eval.mp4 for a guided walkthrough of my smart contract deployment and evaluation.
